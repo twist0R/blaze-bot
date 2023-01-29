@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="80%" src=".github/assets/logo.png" alt="Blaze Tools @twist0R"></a>
+  <img width="100" height="80%" src="https://cdn.discordapp.com/attachments/1029672515024474113/1069356534993256448/logo.png" alt="Blaze Tools @twist0R"></a>
 </p>
 
 <h3 align="center">Blaze Bot - Tools</h3>
