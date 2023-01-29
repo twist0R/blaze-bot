@@ -1,0 +1,11 @@
+<div class="wrapper">
+  {{#each doubles}}
+    <div class="double {{ this.color }}" id="{{ this.id }}">
+      {{#if this.number}}
+        <p>{{ this.number }}</p>
+      {{else}}
+        <img src="/img/white.svg" />
+      {{/if}}
+    </div>
+  {{/each}}
+</div>
